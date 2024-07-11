@@ -1,12 +1,10 @@
-![Cover Image](https://github.com/ZviBerger/ZviBerger/blob/main/Copy%20of%20Blue%20Simple%20Abstract%20Wave%20LinkedIn%20Banner.jpg)
-
+![Cover Image](https://github.com/ZviBerger/ZviBerger/blob/main/Copy%20of%20Copy%20of%20Blue%20Simple%20Abstract%20Wave%20LinkedIn%20Banner%20(8).jpg)
 # Hi, I'm Zvika Berger 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/zvika-berger-2b7817110/)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zvikaberger3@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/972544260858)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zvika-berger-2b7817110/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zvikaberger3@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972544260858)
-
-I'm a Full Stack Engineer specializing in end-to-end SaaS development, with a proven track record of driving projects from ideation to deployment.
+Full Stack Engineer specializing in end-to-end SaaS development, with a proven track record of driving projects from ideation to deployment.
 Passionate about leveraging diverse technologies to create innovative and impactful solutions.
 
 ---
