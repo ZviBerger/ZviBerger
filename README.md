@@ -1,4 +1,4 @@
-![Cover Image](https://your-cover-image-url.com)
+![Cover Image](https://github.com/ZviBerger/ZviBerger/blob/main/Copy%20of%20Blue%20Simple%20Abstract%20Wave%20LinkedIn%20Banner.jpg)
 
 # Hi, I'm Zvika Berger 👋
 
