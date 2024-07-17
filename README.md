@@ -1,6 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/zvika-berger-2b7817110/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zvikaberger3@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/972544260858)
 
 Full Stack Engineer specializing in end-to-end SaaS development, with a proven track record of driving projects from ideation to deployment.
 Passionate about leveraging diverse technologies to create innovative and impactful solutions.
