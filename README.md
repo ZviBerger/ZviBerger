@@ -1,4 +1,3 @@
-# Hi, I'm Zvika Berger 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/zvika-berger-2b7817110/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zvikaberger3@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/972544260858)
@@ -8,7 +7,7 @@ Passionate about leveraging diverse technologies to create innovative and impact
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ### Frontend
 - React.js (Hooks), Redux TK & Query
@@ -29,7 +28,7 @@ Passionate about leveraging diverse technologies to create innovative and impact
 
 ---
 
-## 📚 Work Experience
+## Work Experience
 
 ### Full Stack Software Engineer, Stealth
 **2023 - Present**
@@ -57,7 +56,7 @@ Passionate about leveraging diverse technologies to create innovative and impact
 
 ---
 
-## 🎓 Education
+## Education
 
 ### B.Sc. Computer Science, HAC (Hadassah Academic College)
 **2015 - 2019**
