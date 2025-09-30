@@ -1,8 +1,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/zvika-berger-2b7817110/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zvikaberger3@gmail.com)
 
-Full Stack Engineer specializing in end-to-end SaaS development, with a proven track record of driving projects from ideation to deployment.
-Passionate about leveraging diverse technologies to create innovative and impactful solutions.
+My passion is to build intelligent systems that serve people, empowering them to learn, understand, and thrive in a complex world.
+
+Full-Stack Engineer specializing in B2B and B2C SaaS solutions. Proficient in Node.js, React.js, TypeScript, Python, SQL, NoSQL, with experience in RESTful APIs, real-time features, and microservices using Redis, SQS, RabbitMQ, AWS, Docker, and Kubernetes. Continuously expanding expertise in performance optimization, caching, streams, and clustering.
+
+Rapidly advanced to leadership roles, including Full-Stack Team Leader, demonstrating strong motivational and guidance skills. Thrive in collaborative environments and excel in effective communication.
+
+Committed to creating high-quality, user-friendly products that deliver value. Passionate about staying at the forefront of technological advancements and contributing to innovative solutions in the software industry.​
 
 ---
 
@@ -25,37 +30,7 @@ Passionate about leveraging diverse technologies to create innovative and impact
 - Docker, Kubernetes
 - Continuous Integration & Continuous Deployment (CI/CD)
 
----
-
-## Work Experience
-
-### Full Stack Software Engineer, Stealth
-**2023 - Present**
-- Designing and developing a B2B SaaS LMS platform powered by GenAI.
-- Enhancing access to course materials and knowledge analytics to improve student performance.
-
-### Full Stack Software Engineer, nSure.ai
-**2022 - 2023**
-- Developed a fraud prevention system for high-risk digital transactions.
-- Conducted code reviews, led feature development, and ensured system reliability.
-
-### Full Stack Software Engineer & Team Leader, Cover
-**2021 - 2022**
-- Developed a financial analyzer application to provide clients with actionable insights.
-- Led a team of four, managing technical challenges and project delivery timelines.
-
-### Full Stack Software Engineer, EVO-IT
-**2019 - 2021**
-- Developed an internal business system for a leading financial institution.
-- Worked in an Agile methodology with international teams.
-
-### Software Development Intern, SafeMode
-**2018 - 2019**
-- Contributed to front-end and back-end development projects using Python, Flask, and MySQL.
-
----
-
 ## Education
 
-### B.Sc. Computer Science, HAC (Hadassah Academic College)
+### B.Sc. Computer Science, HAC
 **2015 - 2019**
